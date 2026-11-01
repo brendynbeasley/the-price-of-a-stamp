@@ -1,0 +1,28 @@
+section,product,revenue_m,attrib_cost_m,vv_cost_m,elasticity,elasticity_se,demand_categories,statutory,cost_coverage_pct,lerner,lerner_attrib,inv_elasticity,ramsey_number,elasticity_t
+First-Class Mail,Single-Piece Letters,6775.39,3754.36,3633.67,-0.309096,0.0980819,First-Class SP | Stamped Letters; First-Class SP | Metered Letters,False,180.467,0.463696,0.445883,3.23524,0.143327,-3.15141
+First-Class Mail,Single-Piece Postcards,190.959,119.796,118.798,-0.44199,0.105512,First-Class | SP Cards,False,159.404,0.377884,0.372661,2.26249,0.167021,-4.189
+First-Class Mail,Presort Letters,16095.5,4753.36,4670.61,-0.398087,0.0546148,First-Class | WS Letters,False,338.614,0.709819,0.704678,2.51201,0.28257,-7.289
+First-Class Mail,Presort Cards,900.584,232.813,232.401,-0.467643,0.127946,First-Class | WS Cards,False,386.828,0.741944,0.741487,2.13838,0.346965,-3.655
+First-Class Mail,Flats,1788.23,1391.47,1388.36,-0.427359,0.0513301,First-Class | SP Flats; First-Class | WS Flats,False,128.514,0.223608,0.221872,2.33995,0.0955608,-8.3257
+First-Class Mail,Outbound Single-Piece First-Class Mail International,152.5,101.913,101.913,-0.207506,0.192135,Outbound | International,False,149.637,0.33172,0.331718,4.81914,0.068834,-1.08
+USPS Marketing Mail,High Density and Saturation Letters,1322.4,543.924,539.437,-0.772539,0.202173,Comm Mktg | HD/Sat Letters; NP Mktg | HD/Sat Letters,False,243.122,0.592077,0.588683,1.29443,0.457402,-3.82118
+USPS Marketing Mail,High Density and Saturation Flats and Parcels,1680.24,915.792,881.024,-0.427686,0.188996,Comm Mktg | HD/Sat Flats; NP Mktg | HD/Sat Flats,False,183.474,0.475657,0.454964,2.33816,0.203432,-2.26294
+USPS Marketing Mail,Carrier Route,1108.19,831.991,826.842,-0.546772,0.18062,Comm Mktg | Flats & Basic CR; NP Mktg | Flats & Basic CR,False,133.197,0.253877,0.249231,1.82892,0.138813,-3.02719
+USPS Marketing Mail,Letters,10462.5,5007.86,4846.62,-0.502704,0.197754,Comm Mktg | Letters; NP Mktg | Letters,False,208.922,0.536762,0.521351,1.98924,0.269832,-2.54207
+USPS Marketing Mail,Flats,1129.59,1534.25,1529.44,-0.546772,0.18062,Comm Mktg | Flats & Basic CR; NP Mktg | Flats & Basic CR,False,73.625,-0.353977,-0.358235,1.82892,-0.193544,-3.02719
+USPS Marketing Mail,Parcels,46.2459,22.6329,22.6316,-0.751634,0.143853,Marketing | Parcels,False,204.331,0.510624,0.510598,1.33043,0.383803,-5.225
+USPS Marketing Mail,Every Door Direct Mail Retail,127.429,36.3129,36.2187,-0.653947,0.107257,Comm Mktg | EDDM,False,350.918,0.715772,0.715033,1.52918,0.468077,-6.097
+Periodicals,In County,75.6378,95.3784,95.2252,-0.135885,0.0891049,Periodical | In-County,True,79.3029,-0.258962,-0.260988,7.35916,-0.0351891,-1.525
+Periodicals,Outside County,807.63,1083.81,1079.55,-0.289232,0.0664372,Periodical | Regular; Periodical | NP & Classroom,True,74.5176,-0.336686,-0.341965,3.45743,-0.0973804,-4.35347
+Package Services,Alaska Bypass,37.1379,47.3494,47.3494,-0.235187,0.151538,Alaska | Bypass,True,78.4339,-0.27496,-0.27496,4.25194,-0.064667,-1.552
+Package Services,Bound Printed Matter Flats,104.644,78.5422,78.5153,-0.625759,0.27664,BPM | Flats,False,133.233,0.249692,0.249435,1.59806,0.156247,-2.262
+Package Services,Bound Printed Matter Parcels,383.855,362.929,362.297,-0.919766,0.357191,BPM | Parcels,False,105.766,0.0561642,0.0545174,1.08723,0.0516579,-2.575
+Package Services,Media and Library Mail,398.836,263.645,263.449,-0.531967,0.18965,Media & Library | Rate Mail,True,151.277,0.339455,0.338963,1.87982,0.180579,-2.805
+Ancillary Services,Certified Mail,788.145,385.908,379.556,-0.580915,0.229339,Certified | Mail,False,204.232,0.518419,0.51036,1.72142,0.301157,-2.533
+Ancillary Services,COD,5.44612,1.5166,1.51374,-1.1587,0.514062,COD | Mail,False,359.102,0.722053,0.721527,0.86304,0.836639,-2.254
+Ancillary Services,Insurance,52.0379,14.7693,14.7677,-1.97365,0.154675,Insured | Mail,False,352.338,0.716212,0.716182,0.506675,1.41355,-12.76
+Ancillary Services,Registered Mail,18.1724,9.00505,9.0046,-1.67998,0.246332,Registered | Mail,False,201.803,0.504492,0.504467,0.595244,0.847537,-6.82
+Ancillary Services,Stamped Envelopes,13.4356,5.49969,5.49832,-0.487577,0.245631,Stamped | Envelopes,False,244.298,0.590766,0.590664,2.05096,0.288044,-1.985
+Ancillary Services,Stamped Cards,0.839038,0.294373,0.294373,-0.715655,0.359806,Stamped | Cards,False,285.025,0.649154,0.649154,1.39732,0.46457,-1.989
+Special Services,Money Orders,220.799,133.126,129.312,-0.321581,0.0387494,Money | Orders,False,165.858,0.414347,0.397073,3.10964,0.133246,-8.299
+Special Services,Post Office Box Service,332.266,118.028,117.865,-0.204703,0.0372187,Post Office | Boxes,False,281.515,0.64527,0.644779,4.88513,0.132089,-5.5

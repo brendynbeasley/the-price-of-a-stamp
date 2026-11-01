@@ -1,0 +1,14 @@
+sample,markup_over,weights,n,intercept,intercept_se,slope,slope_se,slope_p,r2,slope_ci_low,slope_ci_high,spearman_rho,spearman_p,note
+All matched products,volume-variable cost,unweighted,27,0.615992,0.0919397,-0.101494,0.0365298,0.00546271,0.208006,-0.173091,-0.0298973,-0.374599,0.0542129,
+All matched products,volume-variable cost,revenue-weighted,27,0.560211,0.169468,-0.0148011,0.0684491,0.828804,0.00143307,-0.148959,0.119357,-0.374599,0.0542129,
+All matched products,attributable cost,unweighted,27,0.6125,0.0919736,-0.101829,0.0365427,0.00532709,0.209553,-0.173451,-0.0302061,-0.372462,0.0557121,
+All matched products,attributable cost,revenue-weighted,27,0.554107,0.169548,-0.0162624,0.0688041,0.813155,0.00172535,-0.151116,0.118591,-0.372462,0.0557121,
+Excluding statutory preferred rates,volume-variable cost,unweighted,23,0.484669,0.105957,-0.0106084,0.0364963,0.771303,0.00214438,-0.0821398,0.0609229,-0.213491,0.32802,
+Excluding statutory preferred rates,volume-variable cost,revenue-weighted,23,0.403473,0.185548,0.0586261,0.0788044,0.45691,0.025456,-0.0958277,0.21308,-0.213491,0.32802,
+Excluding statutory preferred rates,attributable cost,unweighted,23,0.482896,0.106506,-0.0120292,0.0369003,0.744431,0.00274511,-0.0843524,0.060294,-0.211021,0.333782,
+Excluding statutory preferred rates,attributable cost,revenue-weighted,23,0.398852,0.187855,0.0564539,0.0806427,0.483897,0.0234016,-0.101603,0.214511,-0.211021,0.333782,
+Elasticity significant (|t| >= 1.96),volume-variable cost,unweighted,24,0.527964,0.144361,-0.0492691,0.0757138,0.515221,0.0258134,-0.197665,0.0991271,-0.236138,0.266619,
+Elasticity significant (|t| >= 1.96),volume-variable cost,revenue-weighted,24,0.496876,0.198859,0.0125398,0.0851094,0.882865,0.000878253,-0.154272,0.179351,-0.236138,0.266619,
+Elasticity significant (|t| >= 1.96),attributable cost,unweighted,24,0.528116,0.145808,-0.0517259,0.0765779,0.499379,0.0283493,-0.201816,0.0983641,-0.233094,0.273013,
+Elasticity significant (|t| >= 1.96),attributable cost,revenue-weighted,24,0.492652,0.199393,0.0102632,0.0858669,0.90486,0.000586195,-0.158033,0.178559,-0.233094,0.273013,
+"Positive markups, log form",volume-variable cost,unweighted,23,-0.807416,0.217251,-0.0229131,0.207179,7.91944e-07,0.000496088,-0.428976,0.38315,,,slope_p tests slope = 1
